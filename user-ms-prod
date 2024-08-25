@@ -1,0 +1,10 @@
+build:
+  version: "1.0.0"
+
+accounts:
+  message: "Welcome to MicroShop accounts related prod APIs"
+  contact-details:
+    email: "emir.baran25@gmail.com"
+  on-call-support:
+    - 05144305129
+    - 21324211123
